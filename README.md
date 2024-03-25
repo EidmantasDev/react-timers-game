@@ -1,6 +1,6 @@
-# React essiantials project
+# React timers game
 
-A small project to display core concepts of React library
+A small game using core React functionality
 
 ## Run Locally
 
